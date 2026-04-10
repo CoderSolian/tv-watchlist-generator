@@ -12,7 +12,7 @@ pip install -r requirements.txt
 ```
 
 ## API Key
-If needed, a free API key can be obtained from omdbapi.com
+If needed, a free API key can be obtained from omdbapi.com.
 Then, rename `config_example.py` to `config.py` and replace the placeholder with your API key.
 
 ## How to run code
